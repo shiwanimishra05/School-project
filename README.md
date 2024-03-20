@@ -1,3 +1,3 @@
 # School-project
 
-made a school website using HTML,css nad js
+made a school website using HTML,css and js
